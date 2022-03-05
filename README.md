@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @timiiie
+- 🥵 I'm a Vue developer
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on other content github
 - 📫 How to reach me iyoroebitimi@gmail.com
